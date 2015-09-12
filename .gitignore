@@ -1,0 +1,8 @@
+.gradle/
+local.properties
+build
+app/crashlytics.properties
+app/build
+libraries/facebook/build/
+libraries/vksdk/build/
+.idea
